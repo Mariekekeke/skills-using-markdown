@@ -31,3 +31,8 @@ print(thislist)
 thislist = ["apple", "banana", "pear"]
 print(thislist)
 ```
+
+### Use Markdown to create a task list. Here is an example:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
